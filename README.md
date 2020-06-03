@@ -1,4 +1,4 @@
-﻿# Project Title: Board Game Development
+# Project Title: Board Game Development
 
 # Project Description:
 
@@ -10,11 +10,11 @@ https://github.com/vineetha1996/BoardGameDevelopment
 
 ## Project Management Plan link:
 
-https://github.com/vineetha1996/BoardGameDevelopment/blob/master/docs/PMP.md
+https://github.com/vineetha1996/BoardGameDevelopment/tree/master/Milestone02/Project%20Integration%20Management
 
 ## Work Breakdown Structure link:
 
-https://github.com/vineetha1996/BoardGameDevelopment/blob/master/docs/WBS.md
+https://github.com/vineetha1996/BoardGameDevelopment/blob/master/Milestone02/WBS%20(2).xls
 
 ## Team Name: DRAGONS
 
@@ -46,7 +46,7 @@ Our Project charter outlines the purpose, objectives, goals, scope, project budg
 
 ## Project Charter Link:
 
-https://github.com/vineetha1996/BoardGameDevelopment/blob/master/docs/Project_Charter.md
+https://github.com/vineetha1996/BoardGameDevelopment/tree/master/Milestone02/Project%20Integration%20Management
 
 ## Team Communication and Participation:
 
