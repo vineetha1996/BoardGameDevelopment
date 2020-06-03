@@ -20,11 +20,11 @@ https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/WBS.md
 
 ## Team Members:
 
-• Jyoshna Boppidi<br>
-• Meghana Putta<br>
-• Himabindu Poshala<br>
-• Preetham Potu<br>
-• Abhiram Madugula<br>
+• Vineetha Yenugula<br>
+• Tejaswi Reddy Kandula<br>
+• Neelesh Saladi<br>
+• Bharath Kumar Gandhasiri<br>
+• Revanth Davuluri<br>
 
 ## Client: Dr. Denise Case
 
