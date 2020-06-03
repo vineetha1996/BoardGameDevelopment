@@ -14,7 +14,7 @@ https://github.com/vineetha1996/BoardGameDevelopment/blob/master/docs/PMP.md
 
 ## Work Breakdown Structure link:
 
-https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/WBS.md
+https://github.com/vineetha1996/BoardGameDevelopment/blob/master/docs/WBS.md
 
 ## Team Name: DRAGONS
 
