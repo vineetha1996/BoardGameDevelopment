@@ -97,7 +97,7 @@
 <br> 
 <h3>Milestones</h3><hr />
 <br>
-1.Project Charter
+1. Project Charter
 Stakeholder Register
 <br>
 2.
