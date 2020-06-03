@@ -10,7 +10,7 @@ https://github.com/vineetha1996/BoardGameDevelopment
 
 ## Project Management Plan link:
 
-https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/PMP.md
+https://github.com/vineetha1996/BoardGameDevelopment/blob/master/docs/PMP.md
 
 ## Work Breakdown Structure link:
 
@@ -30,7 +30,7 @@ https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/WBS.md
 
 ## Team Logo:
 
-![](https://github.com/MeghanaPutta/QuizBuzz/blob/master/images/logo.PNG)
+![](https://github.com/vineetha1996/BoardGameDevelopment/blob/master/images/team%20logo.png)
 
 ## Roles:
 
@@ -46,7 +46,7 @@ Our Project charter outlines the purpose, objectives, goals, scope, project budg
 
 ## Project Charter Link:
 
-https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/projectcharter.md
+https://github.com/vineetha1996/BoardGameDevelopment/blob/master/docs/Project_Charter.md
 
 ## Team Communication and Participation:
 
