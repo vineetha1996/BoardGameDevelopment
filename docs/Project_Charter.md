@@ -116,14 +116,14 @@ Risk Management
 Procurement management
 Stakeholder management
 <br>
- <h3>Schedule:</h3>
+ <h3>Schedule Information</h3>
  <hr />
  <p>The following scheduled will be implemented.</p>
-<li>Phase 1 completed and presented at the end of week 1</li>
-<li>Phase 2 completed and presented at the end of week 2</li>
-<li>Phase 3 completed and presented at the end of week 3</li>
-<li>Phase 4 finalized and published at the end of week 4</li>
-<li>Project reflections and discussions during week 4.</li>
+<li>Phase 1 completed and presented at the end of week 3</li>
+<li>Phase 2 completed and presented at the end of week 4</li>
+<li>Phase 3 completed and presented at the end of week 5</li>
+<li>Phase 4 finalized and published at the end of week 6</li>
+<li>Project reflections and discussions during week 6.</li>
 <br>
 <h3>Success Criteria</h3>
 <hr />
