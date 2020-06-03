@@ -2,11 +2,11 @@
 
 # Project Description:
 
-A quiz in general is a type of game ,endeavor to respond to questions correctly. Our app lets the users to score the points and numerous quizzes are planned as they request.There are various types of queries that can be utilized to know about different topics in project management.
+This project is about creating a board game application. In this project we will develop a board game as an application where it can be able to use in all machines/devices like mobiles, Laptop, computers etc.., which can be accessible in all operating systems. By this application every user can be able to play board games in their own devices.
 
 ## Project Repository:
 
-https://github.com/MeghanaPutta/QuizBuzz
+https://github.com/vineetha1996/BoardGameDevelopment  
 
 ## Project Management Plan link:
 
@@ -16,7 +16,7 @@ https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/PMP.md
 
 https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/WBS.md
 
-## Team Name: Proj Pals
+## Team Name: DRAGONS
 
 ## Team Members:
 
@@ -26,7 +26,7 @@ https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/WBS.md
 • Bharath Kumar Gandhasiri<br>
 • Revanth Davuluri<br>
 
-## Client: Dr. Denise Case
+## Client: Dr. Aziz Fellah
 
 ## Team Logo:
 
@@ -34,12 +34,11 @@ https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/WBS.md
 
 ## Roles:
 
-Project sponsor – Abhiram Madugula (s534093@nwmissouri.edu)<br>
-Tester – Himabindu Poshala (s533727@nwmissouri.edu)<br>
-Developer – Jyoshna Boppidi (s533706@nwmissouri.edu)<br>
-Developer – Abhiram Madugula (s534093@nwmissouri.edu)<br>
-Quality analyst – Meghana Putta (s533909@nwmissouri.edu)<br>
-Project manager – Preetham Potu (s533713@nwmissouri.edu)<br>
+Project manager – Vineetha Yenugula (s538313@nwmissouri.edu)<br>
+Team lead – Bharath Kumar Gandhasiri (s538366@nwmissouri.edu)<br>
+Developer – Tejaswi Reddy Kandula (s538309@nwmissouri.edu)<br>
+Developer – Neelesh saladi (s538300@nwmissouri.edu)<br>
+Marketing manager – Revanth Davuluri (s534917@nwmissouri.edu)<br>
 
 ## Project Charter:
 
@@ -51,7 +50,7 @@ https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/projectcharter.md
 
 ## Team Communication and Participation:
 
-We will conduct few stand-up meetings in Colden Hall or Horizons West, and also communicate through phone calls, e-mails, WhatsApp group, Skype for Business, etc.
+We will conduct few stand-up meetings in Horizons West apartments, and also communicate through zoom calls, phone calls, e-mails, WhatsApp group, Skype for Business, etc.
 If any non-participating team member is present in our group, we will encourage him/her by allocating at least a small and interesting task and make him/her actively participate in the project.
 
 ## Team Members Contributions:
@@ -63,43 +62,43 @@ If any non-participating team member is present in our group, we will encourage 
   </tr>
   <tr>
     <td>Integration management</td>
-    <td>Project charter and management plan is described by Abhiram Madugula</td>
+    <td>Project charter and management plan is described by Vineetha Yenugula</td>
   </tr>
    <tr>
     <td>Cost management</td>
-    <td>Budget of the project and cost estimation is estimated by Jyoshna Boppidi</td>
+    <td>Budget of the project and cost estimation is estimated by Tejaswi Reddy Kandula</td>
   </tr>
   <tr>
     <td>Time management</td>
-    <td>Scheduling management plans and gantt charts are given by Preetham Potu</td>
+    <td>Scheduling management plans and gantt charts are given by Revanth Davuluri</td>
   </tr>
   <tr>
     <td>Scope management</td>
-    <td>Scope of the project, specification requirements and work breakdown structure will be defined by Himabindu Poshala </td>
+    <td>Scope of the project, specification requirements and work breakdown structure will be defined by Bharath Kumar Gandhasiri</td>
   </tr>
   <tr>
     <td>Quality management</td>
-    <td>Quality of the project is monitored by Meghana Putta</td>
+    <td>Quality of the project is monitored by Revanth Davuluri</td>
   </tr>
    <tr>
     <td>Human resource management</td>
-    <td>Organizational charts are described by Abhiram Madugula</td>
+    <td>Organizational charts are described by Bharath Kumar Gandhasiri</td>
   </tr>
   <tr>
     <td>Communication management</td>
-    <td>Risk of the project is determined, monitored by Preetham Potu</td>
+    <td>Risk of the project is determined, monitored by Revanth Davuluri</td>
   </tr>
    <tr>
     <td>Risk management</td>
-    <td>Stakeholder communications are analysed by Jyoshna Boppidi</td>
+    <td>Stakeholder communications are analysed by Tejaswi Reddy Kandula</td>
   </tr>
    <tr>
     <td>Procurement management</td>
-    <td>Request of proposals and review of work is handled by Himabindu Poshala</td>
+    <td>Request of proposals and review of work is handled by Vineetha Yenugula</td>
   </tr>
    <tr>
     <td>Stakeholder management</td>
-    <td>Stake holder registration, analysis and issue log is maintained by Meghana Putta</td>
+    <td>Stake holder registration, analysis and issue log is maintained by Neelesh saladhi</td>
   </tr>
   </table>
 
