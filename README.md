@@ -18,7 +18,7 @@ https://github.com/vineetha1996/BoardGameDevelopment/tree/master/Milestone02/Pro
 
 ## Project Scope Management:
 
-Project Scope Management includes the Product requirements such as how the Board Game Application works and in what way the user will be able to use the Application and work break down structure which contains the detail schedule about the project that is how many hours team worked for the successful completion of project.
+Project Scope Management includes the Product requirements such as how the Board Game Application works and in what way the user will be able to use the Application and work break down structure which contains the detail schedule about the project, that is how many hours team worked for the successful completion of project.
 
 ## Project Scope Management Link:
 
