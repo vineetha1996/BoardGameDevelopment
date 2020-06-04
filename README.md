@@ -130,7 +130,7 @@ If any non-participating team member is present in our group, we will encourage 
 <table style="width:100%;border: 1px solid black;">
 <tr>
 <th>Knowledge Areas</th>	
-<th>Member Responsible></th>
+<th>Member Responsible</th>
   </tr>
   <tr>
     <td>Integration management</td>
