@@ -18,7 +18,7 @@ https://github.com/vineetha1996/BoardGameDevelopment/tree/master/Milestone02/Pro
 
 ## Project Scope Management:
 
-Project Scope Management includes the Product requirements such as how the Board Game Application works and in what way the user will be able to use the Application and work break down structure which contains the detail schedule about the project that is how many hours team worked for the successful completion of project.
+Project Scope Management includes the Product requirements such as how the Board Game Application works and in what way the user will be able to use the Application and work break down structure which contains the detail schedule about the project, that is how many hours team worked for the successful completion of project.
 
 ## Project Scope Management Link:
 
@@ -48,7 +48,45 @@ Project Quality Management includes metrics based on these metrics the quality o
 
 https://github.com/vineetha1996/BoardGameDevelopment/blob/master/Milestone03/Quality%20Management%20Plan.doc
 
+## Project Resource Management:
 
+Project Resource Management includes Staffing Requirements and the Project Manager who takes care about the recruitment of staff to the Project and the organization chart which contains the detail information about Management and Team Members.
+
+## Project Resource Management Link:
+
+https://github.com/vineetha1996/BoardGameDevelopment/blob/master/Milestone03/Project%20Staffing%20Management.docx
+
+## Project Communication Management:
+
+Project Communication Management includes the communication requirements of stakeholders for every stage of Application such as for Approval of Projects in Initial Phase,Project Reports,Scheduling meetings,Designing documents,Test Results and all the communications produced will be available on the project web site.
+
+## Project Communication Management Link:
+
+https://github.com/vineetha1996/BoardGameDevelopment/blob/master/Milestone03/Communication%20Management%20Plan%20Version%201.docx
+
+## Project Risk Management:
+
+Risk Management includes the probability of risk occurance along with the impact for Board Game Development.The Risks are logged in Risk Management so that based on the impact of the risk the issue can resolved and this will be helpful in less happening of the risk in later phases.
+
+## Project Risk Management Link:
+
+https://github.com/vineetha1996/BoardGameDevelopment/blob/master/Milestone03/Project%20Risk%20Management.docx
+
+## Project Procurement:
+
+Procurement includes Request for proposal of developers ,Location where the work is to be done,The Performance of project which takes 23 days in total and The standards of this project is to make the game creative and interesting.
+
+## Project Procurement Link:
+
+https://github.com/vineetha1996/BoardGameDevelopment/tree/master/Milestone04/Procurement%20management
+
+## Project Stakeholder Management:
+
+Project Stakeholder Management includes Stakeholder Register and Analysis.Issues to be logged based on priority.
+
+## Project Stakeholder Management Link:
+
+https://github.com/vineetha1996/BoardGameDevelopment/tree/master/Milestone04/Stakeholder%20management
 
 ## Team Name: DRAGONS
 
@@ -92,7 +130,7 @@ If any non-participating team member is present in our group, we will encourage 
 <table style="width:100%;border: 1px solid black;">
 <tr>
 <th>Knowledge Areas</th>	
-<th>Member Responsible></th>
+<th>Member Responsible</th>
   </tr>
   <tr>
     <td>Integration management</td>
