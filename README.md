@@ -8,13 +8,47 @@ This project is about creating a board game application. In this project we will
 
 https://github.com/vineetha1996/BoardGameDevelopment  
 
-## Project Management Plan link:
+## Project Integration Management:
+
+Project Integration Management includes Project Charter, Project Management Plan which includes what work need to be performed by the team, overview of budget information, Staffing Plan and which tools to be used for the Project.
+
+## Project Integration Management Link:
 
 https://github.com/vineetha1996/BoardGameDevelopment/tree/master/Milestone02/Project%20Integration%20Management
 
-## Work Breakdown Structure link:
+## Project Scope Management:
 
-https://github.com/vineetha1996/BoardGameDevelopment/blob/master/Milestone02/WBS%20(2).xls
+Project Scope Management includes the Product requirements such as how the Board Game Application works and in what way the user will be able to use the Application and work break down structure which contains the detail schedule about the project that is how many hours team worked for the successful completion of project.
+
+## Project Scope Management Link:
+
+https://github.com/vineetha1996/BoardGameDevelopment/tree/master/Milestone02/Project%20Scope%20Management
+
+## Project Schedule Management:
+
+Project Schedule Management includes the Gantt chart based on the total performance of the team in the project for each and every Task.
+
+## Project Schedule Management Link:
+
+https://github.com/vineetha1996/BoardGameDevelopment/tree/master/Milestone02/Project%20Schedule%20Management
+
+## Project Cost Management:
+
+Project Cost Management includes cost Estimation for the Board Game Development.
+
+## Project Cost Management Link:
+
+https://github.com/vineetha1996/BoardGameDevelopment/tree/master/Milestone02/Project%20Cost%20Management
+
+## Project Quality Management:
+
+Project Quality Management includes metrics based on these metrics the quality of the Application is measured and when the problem occurs assigning the problem to the actual resource and making it solved.
+
+## Project Quality Management Link:
+
+https://github.com/vineetha1996/BoardGameDevelopment/blob/master/Milestone03/Quality%20Management%20Plan.doc
+
+
 
 ## Team Name: DRAGONS
 
