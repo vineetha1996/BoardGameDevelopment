@@ -74,7 +74,7 @@ https://github.com/vineetha1996/BoardGameDevelopment/blob/master/Milestone03/Pro
 
 ## Project Procurement:
 
-Procurement includes Request for proposal of developers ,Location where the work is to be done,The Performance of project which takes 23 days in total and The standards of this project is to make the game creative and interesting.
+Procurement includes Request for the proposal of developers ,Location where the work is to be done,The Performance of project which takes 23 days in total and The standards of this project is to make the game creative and interesting.
 
 ## Project Procurement Link:
 
